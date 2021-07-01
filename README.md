@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React Slider Carousel
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Alt Text](https://media.giphy.com/media/eZxFawEYdROhO3OM2S/giphy.gif)
 
 ## Available Scripts
 
